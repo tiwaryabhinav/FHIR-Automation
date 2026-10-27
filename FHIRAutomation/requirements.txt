@@ -1,0 +1,16 @@
+langchain
+langgraph
+fastapi[standard]
+uvicorn
+langchain-ollama
+ollama
+pypdf
+langchain-chroma
+langchain-text-splitters
+pydantic
+pydantic-settings
+python-dotenv
+langgraph-checkpoint-sqlite
+langsmith
+chromadb
+psycopg2-binary
